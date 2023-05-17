@@ -1,4 +1,4 @@
-This codes includes our works on Traffic Flow Prediction by Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting.
+This codes includes our works on Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting.
 
 
 
