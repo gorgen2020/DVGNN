@@ -20,7 +20,7 @@ The setting are shown in configuration document：./graph_generation/configurati
 * time
 
 ## Run the demo:
-./prediction-code/Transportation or FMRI\main.py
+./graph_generation/Transportation or FMRI\main.py
 
 Then we will get the parameter file after training, for example, Tdrive_normalization_parameter.npz. Run dynamic_graph_trans_.py to generate the dynamic transition matrix, such as dynamic_Tdrive_adj.npy file. 
 
@@ -44,9 +44,9 @@ put the generative file from the first step to ./prediction/Transportation or FM
 * time
 
 ## Run the demo:
-./prediction/Transportation or FMRI\main.py
+./prediction-code/Transportation or FMRI\main.py
 
 
 
-If you have any questions, please feel free to email me!
+If you have any questions, please feel free to email me, gorgen@163.com!
 
