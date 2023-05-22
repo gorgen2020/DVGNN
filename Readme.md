@@ -1,4 +1,4 @@
-This codes includes our works on Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting.
+This codes includes our works on Traffic Flow Prediction by Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatio-temporal Forecasting.
 
 
 
@@ -22,9 +22,7 @@ The setting are shown in configuration document：./graph_generation/configurati
 ## Run the demo:
 ./graph_generation/Transportation or FMRI\main.py
 
-Then we will get the parameter file after training, for example, Tdrive_normalization_parameter.npz. 
-
-Run dynamic_graph_trans_.py to generate the dynamic transition matrix, such as dynamic_Tdrive_adj.npy file. 
+Then we will get the parameter file after training, for example, Tdrive_normalization_parameter.npz. Run dynamic_graph_trans_.py to generate the dynamic transition matrix, such as dynamic_Tdrive_adj.npy file. 
 
 
 
