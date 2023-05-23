@@ -10,7 +10,7 @@ import configparser
 
 # prepare dataset
 parser = argparse.ArgumentParser()
-parser.add_argument("--config", default='configurations/FMRI-13.conf', type=str,
+parser.add_argument("--config", default='configurations/FMRI-3.conf', type=str,
                     help="configuration file path")
 
 args = parser.parse_args()
