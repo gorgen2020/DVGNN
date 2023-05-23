@@ -45,11 +45,11 @@ parser.add_argument("--force", type=str, default=False,
                     help="remove params dir", required=False)
 parser.add_argument('--decay', type=float, default=0.92, help='decay rate of learning rate ')
 
-parser.add_argument("--data_name", type=str, default='FMRI-13',
+parser.add_argument("--data_name", type=str, default='FMRI-3',
                     help="FMRI-3, FMRI-4 or FMRI-13", required=False)
 
 
-parser.add_argument('--num_point', type=int, default=5,
+parser.add_argument('--num_point', type=int, default=15,
                         help='Node Number [15,50,5]', required=False)
 
 
