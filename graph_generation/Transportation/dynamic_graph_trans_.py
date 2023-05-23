@@ -8,7 +8,7 @@ import time
 
 
 
-dataset_name = 'PEMS08'
+dataset_name = 'Tdrive'
 
 weigh_fi = np.load(dataset_name + '_normalization_parameter.npz') ['Weight_fi']
 
