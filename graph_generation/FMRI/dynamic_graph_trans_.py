@@ -2,7 +2,7 @@ import numpy as np
 import time
 
 
-dataset_name = 'FMRI-13'
+dataset_name = 'FMRI-3'
 
 weigh_fi = np.load(dataset_name + '_normalization_parameter.npz') ['Weight_fi']
 
