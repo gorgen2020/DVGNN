@@ -40,10 +40,10 @@ parser.add_argument("--force", type=str, default=False,
                     help="remove params dir", required=False)
 parser.add_argument('--decay', type=float, default=0.92, help='decay rate of learning rate ')
 
-parser.add_argument("--data_name", type=str, default='PEMS08',
+parser.add_argument("--data_name", type=str, default='Tdirve',
                     help="The dataset name:Tdirve, Los_loop, PEMS08 ", required=False)
 
-parser.add_argument('--num_point', type=int, default=170,
+parser.add_argument('--num_point', type=int, default=64,
                         help='road or grid Point Number 64,207,170 ', required=False)
 
 FLAGS = parser.parse_args()
