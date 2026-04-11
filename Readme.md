@@ -96,7 +96,8 @@ or:
 python ./graph_generation/FMRI/main.py
 ```
 
-This generates:
+After training, you will obtain parameter files such as Tdrive_normalization_parameter.npz. Run dynamic_graph_trans_.py to generate the dynamic transition matrix, such as dynamic_Tdrive_adj.npy file. For example
+dynamic_Tdrive_adj.npy
 ```
 dynamic_Tdrive_adj.npy
 ```
