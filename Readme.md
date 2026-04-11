@@ -123,6 +123,8 @@ python ./prediction-code/FMRI/main.py
 
 ## 📖 Citation
 
+If you use this repository in your work, please cite the corresponding paper and consider citing the code repository as well.
+
 ```
 @ARTICLE{10589693,
   author={Liang, Guojun and Tiwari, Prayag and Nowaczyk, Sławomir and Byttner, Stefan and Alonso-Fernandez, Fernando},
