@@ -138,6 +138,14 @@ python ./prediction-code/FMRI/main.py
 
 ---
 
+## Datasets information
+For FMRI dataset information, you can refer to 
+https://github.com/M-Nauta/TCDF
+Neuroscientific FMRI benchmark with brain networks, taken from Smith et al. and preprocessed. Files with 'timeseries' in the filename are the input datasets, the other files contain the ground truth.
+
+
+
+
 ## 📬 Contact
 If you have any questions, please feel free to email me,
 gorgen@163.com
